@@ -1,6 +1,8 @@
 Guia | HEROES
 Integrantes : 
     #Jonathan Oscar Olmos
-    # Amparo Pascual
+    # Amparo Pascual, 
+    Edad : 20 años, 
+    Residencia: Godoy Cruz, Mendoza.
     # Facundo Ramirez
     #Gaston Diaz
