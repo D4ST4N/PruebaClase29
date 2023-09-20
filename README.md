@@ -8,3 +8,5 @@ Integrantes :
     Residencia: Godoy Cruz, Mendoza.
     # Facundo Ramirez
     #Gaston Diaz
+    Edad: 27 Años,
+    Residencia: San Miguel, Buenos Aires 
